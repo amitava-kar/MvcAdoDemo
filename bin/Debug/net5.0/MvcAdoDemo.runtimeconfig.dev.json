@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AMITAVA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AMITAVA\\.nuget\\packages"
+    ]
+  }
+}

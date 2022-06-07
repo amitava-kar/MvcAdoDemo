@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "hookyqr.beautify",
+        "dbaeumer.vscode-eslint",
+        "visualstudioexptteam.vscodeintellicode",
+        "xabikos.javascriptsnippets",
+        "ecmel.vscode-html-css"
+    ]
+}
